@@ -1,10 +1,7 @@
 [
   {
     "action": "talk",
-    "text": "11442 7785447"
-  },
-  {
-    "action": "conversation",
-    "name": "nexmo-conference"
+    "voiceName": "Russell",
+    "text": "112544 55244552"
   }
 ]
