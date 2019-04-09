@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Thanks Ahmed .</Say>
+<Play>http://www.orangecarrier.com/uploads/Permanent.mp3</Play>
+</Response>
